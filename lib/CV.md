@@ -8,7 +8,7 @@
 •	Création et gestion de bases de données
 
 
-EXPÉRIENCE PROFESSIONNELLE
+## Expérience professionnelles
 
 2023.10 - présent
 Université de Montréal, QC
@@ -90,62 +90,86 @@ Licence en Langue et Civilisation Étrangère - spécialité chinois
 
 ## FORMATIONS PROFESSIONNELLES
  
-2024	Python 
+2024	Introduction to Python (6h) Alex Razoumov (SFU) at Alliance Calcul Quebec. February 26-28th.
 2024 	Ecole d’hiver HSS
 2023	Certificat	en anglais	-	Niveau	C2	
 2021	Certificat	d’aptitude à	la	conduite	d’engins	catégorie	CACES	Nacelle	1B-3B
-2020	Filemaker Pro Niveau dévelopement avancé
+2020	Filemaker Pro Niveau développement avancé
 2019	Inventaire et récolement dans les collections publiques, INP
 2018	L’oeuvre en mouvement, Odile Michel, Cipac
 
-REALISATIONS SCIENTIFIQUES
+## REALISATIONS SCIENTIFIQUES
  
-Article avec comité de lecture
-2020	«	The	world	of	‘Pale	fires’,	an	exhibition	put	to	the	test	of	conservation	»,	(EN)	in	ICAR #4.  2020, pp. 204217
+### Article avec comité de lecture
+2024 La documentation d’exposition : retour d’expérience
+Published in [museonum](https://medium.com/museonum?source=post_page-----309521484918--------------------------------)
+
+2020	«	The	world	of	‘Pale	fires’,	an	exhibition	put	to	the	test	of	conservation	»,	(EN)	in	ICAR #4.  2020, pp. 204-217
+
 2018	« Conservation du concept, restauration contre l’oubli » (FR), Marges 2018/2 (n° 27). pp. 110-121. 
+
 2015	« L’exposition artistique peut-elle devenir une oeuvre d’esprit ? » (FR), Semin’R https://seminesaa.hypotheses.org/4144
-2015	« Exposition d’une exposition de Daniel Buren ou l’exposition comme oeuvre d’art » (FR), Semin’R, 
-Investigations in and on conservation, https://seminesaa.hypotheses.org/3129
-Chapitre de livre
-2024	«	Le	monde	de	«	Feux	pâles	»,	exposition	ou	œuvre-réseau	»,	in	Salatko,	Gaspard,	et	al.	Objet en crise : la conservation à la croisée des mondes, Presses Universitaires du Septentrion [accepté] 
-Texte de vulgarisation
+
+2015	« Exposition d’une exposition de Daniel Buren ou l’exposition comme oeuvre d’art » (FR), Semin’R, Investigations in and on conservation, https://seminesaa.hypotheses.org/3129
+
+### Chapitre de livre
+2023	«	Le	monde	de	«	Feux	pâles	»,	exposition	ou	œuvre-réseau	»,	in	Salatko,	Gaspard,	et	al.	Objet en crise : la conservation à la croisée des mondes, Presses Universitaires du Septentrion [accepté] 
+
+### Texte de vulgarisation
 2022	Page Wikipédia de l’artiste Antonio Semeraro
+
 2016	Édition	en	ligne	et	imprimée	sur	les	performances	des	étudiants	de	l’ESAA	pour	Frasq,	Gentilly
-Communications orales
+
+### Communications orales
+2024-03-01 atelier 4 CIECO
+Co-animation et présentation d’une conférence : Le numérique opérateur de la mise à vue des collections. 
+
 Université de Montréal
 2024	Ontologie et base de données pour documenter les accrochages, d’exposition ou de collection muséales, 
 Emmanuel	Château-Dutier,	Lena	Krause,	Zoë	Renaudie,	David	Valentine.	Vitrine	HN	du	CRIHN	
+
 École Supérieure d’Art d’Avignon, FR
 2023	Création et organisation du colloque «Conserver l’exposition» avec Marion Bertin, attachée temporaire d’enseignement et de recherche en muséologie et chercheuse au Centre Norbert Elias En partenariat avec l’Université d’Avignon.
+
 2022	Conférence « La conservation-restauration d’œuvres complexes en institution : générer les traces pour faciliter l’enquête », Journée d’étude : L’enquête en conservation-restauration
+
 Capc, Musée d’art contemporain de Bordeaux, FR
-2022	« Atelier sur les méta-données de l’exposition Feux Pâles », Collection Symposium: Stories, Fictions, Speculations
+2022.12.08-09	« Ateliers sur les métadonnées de l’exposition Feux Pâles », Collection Symposium: Stories, Fictions, Speculations
+
 Ecole Nationale Supérieure d’Aix, FR
 2021	Conférence	pour	«	To	live	or	let	die.	Réflexions	sur	une	écologie	de	la	conservation	de	l’art	,	Ecole	Nationale supérieure d’Aix
+
 Collection Lambert, Centre d’art contemporain, FR
 2018	Création d’un cycle de conférences « Les enjeux de la conservation des œuvres d’art contemporain », présentation de quatre conférences.  
+
 2017	Conférence « Le Luxe dans la création de l’art »
+
 Carré d’art de Nîmes, FR
 2017	Conférence «Conservateur-restaurateur : présentation d’un poste pluridisciplinaire en institution muséale» Journée d’étude, Conservation et restauration de l’art contemporain 
+
 Palais de Tokyo, FR
 2015	«	Curating	art,	the	exhibition-artwork	status	+	guided	tour	of	UGO	RONDINONE	:	I	<3	JOHN	GIORNO	»	Palais de Tokyo, Paris
 
-
-
-IMPLICATION SOCIALE ET BÉNÉVOLAT
+## IMPLICATION SOCIALE ET BÉNÉVOLAT
  
 2023 - 2024
 Membre d’une équipe sportive de Roller Derby - Ligue de Montr éal, QC
+
 2023 - 2024
 Secrétaire de l’association Aesthesis (Association des doctorants en histoire de l’art de l’UdeM) en cours, QC
+
 2023	
 Bénévole cuisine et épicerie pour l’association caritatives Carrefour Solidaire, Montréal, QC
 Bénévole d’accueil de la Fierté, Montréal, QC
+
 2022 - 2023
 Membre d’une équipe sportive de Roller Derby Bones Breaker	de Nimes,	FR
+
 2022	
 Bénévolat Lobby des Consciences, Arles FR
+
 2016	
 Bénévolat au département de la restauration d’art contemporain de Louisiana, Musée d’art contemporain, Humlebæk, DK
+
 2017 - 2011
 Différents	postes	exécutifs	du	bureau	de	l’association	Fil	à	Fil	(Association	des	étudiants	en conservation-restauration de l’École Supérieure d’Art d’Avignon) FR
