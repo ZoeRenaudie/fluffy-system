@@ -104,7 +104,7 @@ Licence en Langue et Civilisation Étrangère - spécialité chinois
 2024 La documentation d’exposition : retour d’expérience
 Published in [museonum](https://medium.com/museonum?source=post_page-----309521484918--------------------------------)
 
-2020	«	The	world	of	‘Pale	fires’,	an	exhibition	put	to	the	test	of	conservation	»,	(EN)	in	ICAR #4.  2020, pp. 204-217
+2020	«	The	world	of 	‘Pale	fires’,	an	exhibition	put	to	the	test	of	conservation	»,	(EN)	in	ICAR #4.  2020, pp. 204-217
 
 2018	« Conservation du concept, restauration contre l’oubli » (FR), Marges 2018/2 (n° 27). pp. 110-121. 
 
@@ -113,7 +113,7 @@ Published in [museonum](https://medium.com/museonum?source=post_page-----3095214
 2015	« Exposition d’une exposition de Daniel Buren ou l’exposition comme oeuvre d’art » (FR), Semin’R, Investigations in and on conservation, https://seminesaa.hypotheses.org/3129
 
 ### Chapitre de livre
-2023	«	Le	monde	de	«	Feux	pâles	»,	exposition	ou	œuvre-réseau	»,	in	Salatko,	Gaspard,	et	al.	Objet en crise : la conservation à la croisée des mondes, Presses Universitaires du Septentrion [accepté] 
+2024	«	Le	monde	de	«	Feux	pâles	»,	exposition	ou	œuvre-réseau	»,	in	Salatko,	Gaspard,	et	al.	Objet en crise : la conservation à la croisée des mondes, Presses Universitaires du Septentrion [accepté] 
 
 ### Texte de vulgarisation
 2022	Page Wikipédia de l’artiste Antonio Semeraro
