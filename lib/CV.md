@@ -121,12 +121,22 @@ Published in [museonum](https://medium.com/museonum?source=post_page-----3095214
 2016	Édition	en	ligne	et	imprimée	sur	les	performances	des	étudiants	de	l’ESAA	pour	Frasq,	Gentilly
 
 ### Communications orales
+CIECO 
+2024 Forum doctoral Ottawa
+
+DHNB
+2024 
+
 2024-03-01 atelier 4 CIECO
 Co-animation et présentation d’une conférence : Le numérique opérateur de la mise à vue des collections. 
 
 Université de Montréal
 2024	Ontologie et base de données pour documenter les accrochages, d’exposition ou de collection muséales, 
 Emmanuel	Château-Dutier,	Lena	Krause,	Zoë	Renaudie,	David	Valentine.	Vitrine	HN	du	CRIHN	
+
+Université de Montréal
+2023	Présentation Solution FMP
+Ouvroir
 
 École Supérieure d’Art d’Avignon, FR
 2023	Création et organisation du colloque «Conserver l’exposition» avec Marion Bertin, attachée temporaire d’enseignement et de recherche en muséologie et chercheuse au Centre Norbert Elias En partenariat avec l’Université d’Avignon.
