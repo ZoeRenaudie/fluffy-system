@@ -141,7 +141,11 @@ Ouvroir
 École Supérieure d’Art d’Avignon, FR
 2023	Création et organisation du colloque «Conserver l’exposition» avec Marion Bertin, attachée temporaire d’enseignement et de recherche en muséologie et chercheuse au Centre Norbert Elias En partenariat avec l’Université d’Avignon.
 
+ESAA
 2022	Conférence « La conservation-restauration d’œuvres complexes en institution : générer les traces pour faciliter l’enquête », Journée d’étude : L’enquête en conservation-restauration
+
+Séminaire jerome 
+Présentation
 
 Capc, Musée d’art contemporain de Bordeaux, FR
 2022.12.08-09	« Ateliers sur les métadonnées de l’exposition Feux Pâles », Collection Symposium: Stories, Fictions, Speculations
