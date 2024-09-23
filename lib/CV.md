@@ -1,4 +1,3 @@
-
 •	Langues : français, anglais et connaissances de base en chinois
 •	Maîtrise des logiciels suivants : Bases de données et gestion de collection, Filemaker Pro, Suite Adobe Créative,  	Open	Office,	Microsoft,	Zotero,	Asana,	Zetler	et	Github
 •	Gestion	de	collection
@@ -12,17 +11,17 @@
 
 2023.10 - présent
 Université de Montréal, QC
-Responsable de projet du laboratoire de l’Ouvroir
+Responsable du laboratoire de l’Ouvroir 
 
 2023.09 - 2023.12
- Université de Montréal, QC
+Université de Montréal, QC
 Auxiliaire de recherche
 Sur le projet «Display» d’Emmanuel Château-Dutier dans le cadre du partenariat de l’ouvroir avec le Cieco
 
 2023.05 - 2024.06
 LUMA Arles, Centre d’art contemporain, FR
 Consulting et AMOA Novart 
-Création et suivi de développement de l ’application de base de données de gestion de collection et de production d’exposition 
+Création et suivi de développement de l ’application de base de données de gestion de collection et de production d’exposition. 
 
 2022.09 - 2023.01	
 ESAA, Ecole supérieure d’art d’Avignon, FR
@@ -31,7 +30,7 @@ Enseignante invitée
 
 2021.02 - 2023.04	
 LUMA Arles, Centre d’art contemporain, FR
-Chargée de conservation 
+Chargée de conservation, conservatrice-restauatrice des installations d'art complexes.  
 Documentation des expositions et oeuvres complexes 
 Chargée de projet Base de données
 
@@ -55,7 +54,7 @@ Stage au département de la restauration d’art contemporain et objets
  Centre Pompidou, Musée National d’Art Moderne, Paris, FR
 Assistante de conservation
  Collaboration sur l’exposition Le Nouveau Festival sur l’art et le jeu, production, recherche, rédaction de textes, documentation gestion des reproductions, assistante d’artiste 
- 
+
  2014.07
  HEAR - Salle d’exposition Prechter, Strasbourg, FR 
 Assistante d’artiste, Elise Alloin
@@ -68,7 +67,11 @@ Examen et traitement en conservation-restauration, documentation, maintenance de
 
 
 ## FORMATION
- 
+
+2024 - présent
+Université de Montréal, QC
+Micro-programme en Humanités digitales
+
 2023 - présent
 Université de Montréal, QC
 Doctorat Histoire de l’art - option muséologie
@@ -82,24 +85,69 @@ Diplôme National Supérieur d’Expression Plastique - Mention Conservation-res
 Ecole Supérieure d’Art d’Avignon, FR
 Bachelor - Félicitations du jury
 Diplôme National d’Art Plastique - Mention Conservation-restauration - Spécialité art contemporain - Étude de l’oeuvre Projections de Richard Baquié (Les Abattoirs) 
-Université de Paris 07 et Université Bordeaux 03, FR
 
-2015 - 2017	
+2008 - 2011	
 Bachelor 
 Licence en Langue et Civilisation Étrangère - spécialité chinois
+Université de Paris 07 et Université Bordeaux 03, FR
+
+
+
+- Micro-programme en Humanités digitales, Université de Montréal, QC
+
+- Doctorat Histoire de l’art - option muséologie, Université de Montréal, QC
+
+- DNSEP Maîtrise en conservation-restauration, Ecole Supérieure d’Art d’Avignon (France), 2017
+
+- DNA Bachelor en conservation-restauration, Ecole Supérieure d’Art d’Avignon (France), 2014
+
+- Certificat en informatique et internet, Université de Paris 07, 2009
+
+- Bachelor en Langue et Civilisation Étrangère - spécialité chinois, Université de Paris 07 et Université Bordeaux 03, 2011
+
+- Baccalauréat série L, Lycée Rodin, 2008
+
+  
+
+## 
 
 ## FORMATIONS PROFESSIONNELLES
- 
+
 2024	Introduction to Python (6h) Alex Razoumov (SFU) at Alliance Calcul Quebec. February 26-28th.
 2024 	Ecole d’hiver HSS
-2023	Certificat	en anglais	-	Niveau	C2	
+2024 	Web sémantique de Harald Sax
+2023	Certificat	en anglais - Niveau	C2	
 2021	Certificat	d’aptitude à	la	conduite	d’engins	catégorie	CACES	Nacelle	1B-3B
 2020	Filemaker Pro Niveau développement avancé
 2019	Inventaire et récolement dans les collections publiques, INP
 2018	L’oeuvre en mouvement, Odile Michel, Cipac
 
+
+
+## Bourses, prix
+
+Mention Licence
+
+Mention Master
+
+Crous
+
+Concours stage
+
+Cieco
+
+Département histoire de l'art 
+
+Bourse ESP
+
+Bourse mobilité et rayonnement Islande
+
+
+
+
+
 ## REALISATIONS SCIENTIFIQUES
- 
+
 ### Article avec comité de lecture
 2024 La documentation d’exposition : retour d’expérience
 Published in [museonum](https://medium.com/museonum?source=post_page-----309521484918--------------------------------)
@@ -120,17 +168,39 @@ Published in [museonum](https://medium.com/museonum?source=post_page-----3095214
 
 2016	Édition	en	ligne	et	imprimée	sur	les	performances	des	étudiants	de	l’ESAA	pour	Frasq,	Gentilly
 
+### Organisations événementielles
+
+Udem, Ouvroir, Cieco 
+organisation Journée étude Ontologie
+
+2024-03-01 atelier 4 CIECO
+Co-animation et présentation d’une conférence : Le numérique opérateur de la mise à vue des collections. 
+
+École Supérieure d’Art d’Avignon, FR
+2023	Création et organisation du colloque «Conserver l’exposition» avec Marion Bertin, attachée temporaire d’enseignement et de recherche en muséologie et chercheuse au Centre Norbert Elias En partenariat avec l’Université d’Avignon.
+
+Collection Lambert, Centre d’art contemporain, FR
+2018	Création d’un cycle de conférences « Les enjeux de la conservation des œuvres d’art contemporain », présentation de quatre conférences.  
+
 ### Communications orales
+
+UQAM, intervention cours UQAM 
+3h
+
+Udem, Ouvroir, Cieco 
+ Journée étude Ontologie
+
 CIECO 
 2024 Forum doctoral Ottawa
 
 DHNB
 2024 
+Pres et poster
 
 2024-03-01 atelier 4 CIECO
 Co-animation et présentation d’une conférence : Le numérique opérateur de la mise à vue des collections. 
 
-Université de Montréal
+Université de Montréal, crihn
 2024	Ontologie et base de données pour documenter les accrochages, d’exposition ou de collection muséales, 
 Emmanuel	Château-Dutier,	Lena	Krause,	Zoë	Renaudie,	David	Valentine.	Vitrine	HN	du	CRIHN	
 
@@ -144,7 +214,7 @@ Ouvroir
 ESAA
 2022	Conférence « La conservation-restauration d’œuvres complexes en institution : générer les traces pour faciliter l’enquête », Journée d’étude : L’enquête en conservation-restauration
 
-Séminaire jerome 
+Séminaire jerome glicenstein
 Présentation
 
 Capc, Musée d’art contemporain de Bordeaux, FR
@@ -152,6 +222,9 @@ Capc, Musée d’art contemporain de Bordeaux, FR
 
 Ecole Nationale Supérieure d’Aix, FR
 2021	Conférence	pour	«	To	live	or	let	die.	Réflexions	sur	une	écologie	de	la	conservation	de	l’art	,	Ecole	Nationale supérieure d’Aix
+
+Luma
+Formation publics
 
 Collection Lambert, Centre d’art contemporain, FR
 2018	Création d’un cycle de conférences « Les enjeux de la conservation des œuvres d’art contemporain », présentation de quatre conférences.  
@@ -165,7 +238,16 @@ Palais de Tokyo, FR
 2015	«	Curating	art,	the	exhibition-artwork	status	+	guided	tour	of	UGO	RONDINONE	:	I	<3	JOHN	GIORNO	»	Palais de Tokyo, Paris
 
 ## IMPLICATION SOCIALE ET BÉNÉVOLAT
- 
+
+2024 - 2025
+Bénevole Head d’une équipe sportive de Roller Derby - Ligue de Montr éal, QC
+
+2024 - 2025
+Secrétaire de l’association Aesthesis (Association des doctorants en histoire de l’art de l’UdeM) en cours, QC
+
+2024 
+Bénévole d’accueil de la Fierté, Montréal, QC
+
 2023 - 2024
 Membre d’une équipe sportive de Roller Derby - Ligue de Montr éal, QC
 
@@ -174,6 +256,8 @@ Secrétaire de l’association Aesthesis (Association des doctorants en histoire
 
 2023	
 Bénévole cuisine et épicerie pour l’association caritatives Carrefour Solidaire, Montréal, QC
+
+2023 
 Bénévole d’accueil de la Fierté, Montréal, QC
 
 2022 - 2023
