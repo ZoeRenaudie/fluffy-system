@@ -19,7 +19,14 @@ archive: "{{archive}}"{% endif %}
 archive-location: "{{archiveLocation}}"{% endif %}
 citekey: {{citekey}}
 abstract: {{abstractNote}}
-tags:
+tags: {% if tags.length > 0 -%}
+{%- for t in tags -%}
+#{% if t.tag == "secondary" %}source/secondary
+{% elif t.tag == "primary" %}source/primary
+{% elif "-project" in t.tag %}project/{{t.tag | lower | replace(" ", "-") | replace("-project", "")}}
+{% else %}subject/{{t.tag | lower | replace(" ", "-")}}
+{% endif %}{% endfor %}
+{% endif %}
 theme:
 ---
 {{bibliography}}
@@ -29,15 +36,6 @@ theme:
 [pdf](file://{{attachment.path | replace(" ", "%20")}})
 {% if loop.last %}{% endif %}
 {%- endfor %}
-
-{% if tags.length > 0 -%}
-{%- for t in tags -%}
-#{% if t.tag == "secondary" %}source/secondary
-{% elif t.tag == "primary" %}source/primary
-{% elif "-project" in t.tag %}project/{{t.tag | lower | replace(" ", "-") | replace("-project", "")}}
-{% else %}subject/{{t.tag | lower | replace(" ", "-")}}
-{% endif %}{% endfor %}
-{% endif %}
 
 ---
 ### Présentation auteur.e.s
