@@ -130,25 +130,37 @@ Bourse mobilité et rayonnement Islande
 
 ## REALISATIONS SCIENTIFIQUES
 
-### Article avec comité de lecture
-2024 La documentation d’exposition : retour d’expérience
-Published in [museonum](https://medium.com/museonum?source=post_page-----309521484918--------------------------------)
+**Article avec comité de lecture (RAC)** 
 
-2020	«	The	world	of 	‘Pale	fires’,	an	exhibition	put	to	the	test	of	conservation	»,	(EN)	in	ICAR #4.  2020, pp. 204-217
+«The world of ‘Pale fires’, an exhibition put to the test of conservation », in *ICAR #4.* 2020, pp. 204-217. https://icarthejournal.asp.waw.pl/index.php/resources/  
 
-2018	« Conservation du concept, restauration contre l’oubli » (FR), Marges 2018/2 (n° 27). pp. 110-121. 
+« Conservation du concept, restauration contre l’oubli », *Marges* 2018/2 (n° 27), pp. 110-121.  https://doi.org/10.4000/marges.1559  
+ 
+**Article sans comité de lecture (RSC)** 
 
-2015	« L’exposition artistique peut-elle devenir une oeuvre d’esprit ? » (FR), Semin’R https://seminesaa.hypotheses.org/4144
+« La documentation d’exposition : retour d’expérience », *museonum,* 2024, https://medium.com/museonum 
 
-2015	« Exposition d’une exposition de Daniel Buren ou l’exposition comme oeuvre d’art » (FR), Semin’R, Investigations in and on conservation, https://seminesaa.hypotheses.org/3129
+« L’exposition artistique peut-elle devenir une oeuvre d’esprit ? », Semin’R 2015, https://seminesaa.hypotheses.org/4144 
 
-### Chapitre de livre
-2024	«	Le	monde	de	«	Feux	pâles	»,	exposition	ou	œuvre-réseau	»,	in	Salatko,	Gaspard,	et	al.	Objet en crise : la conservation à la croisée des mondes, Presses Universitaires du Septentrion [accepté] 
+« Exposition d’une exposition de Daniel Buren ou l’exposition comme oeuvre d’art », Semin’R 2015, Investigations in and on conservation, https://seminesaa.hypotheses.org/3129  
+
+**Chapitre de livre** 
+
+« Le monde de *Feux pâles*, exposition ou œuvre-réseau », in Salatko, Gaspard, et al. *Objet en crise : la conservation à la croisée des mondes*, 2025, Presses Universitaires du Septentrion [accepté] 
+
+**Publications dans actes de colloque** 
+
+« Not Following the Book: A Journey from Museum Conservator to Digital Humanities Researcher through the Creation of a Contemporary Art Management Database », *DHNB2024 Conference Proceedings,* 2024, Reijkavik, Islande https://journals.uio.no/dhnbpub/article/view/12263  
+
+Avec Château-Dutier Emmanuel, Valentine David, Krause Lena, « Documenter les accrochages d’exposition ou de collection muséales : une approche ontologique », *DH2024 proceedings,* Washington, 2024 [in process] 
+
+Avec Valentine David, Krause Lena, Château-Dutier Emmanuel, « Display, Ontology and Database for Exhibition Documentation », *DHNB2024 Conference Proceedings,* 2024, Reijkavik, Islande [in process] 
 
 ### Texte de vulgarisation
+
 2022	Page Wikipédia de l’artiste Antonio Semeraro
 
-
+2016	Édition	en	ligne	et	imprimée	sur	les	performances	des	étudiants	de	l’ESAA	pour	Frasq,	Gentilly
 
 ### Organisations événementielles
 
@@ -164,27 +176,57 @@ Co-animation et présentation d’une conférence : Le numérique opérateur de 
 Collection Lambert, Centre d’art contemporain, FR
 2018	Création d’un cycle de conférences « Les enjeux de la conservation des œuvres d’art contemporain », présentation de quatre conférences.  
 
+version biblio : 
+
+Renaudie, Zoë. À paraître. « Le monde de Feux pâles, exposition ou œuvre-réseau. » In Objet en crise : la conservation à la croisée des mondes, édité par Gaspard Salatko et al. Villeneuve-d’Ascq : Presses Universitaires du Septentrion. [accepté]
+
+Davalent, David, Zoë Renaudie, et Emmanuel Château-Dutier. 2025. « Documenter les accrochages d'expositions et de collections : une approche ontologique. » Ouvroir, https://ouvroir.umontreal.ca/actualites/blog/displayOntology-fr
+
+Renaudie, Zoë. 2024. « Not Following the Book: A Journey from Museum Conservator to Digital Humanities Researcher through the Creation of a Contemporary Art Management Database. » DHNB2024 Conference Proceedings, Reykjavik, Islande. https://journals.uio.no/dhnbpub/article/view/12263
+
+Valentine David, Emmanuel Château-Dutier, Renaudie, Zoë et Lena Krause. À paraître. « Documenter les accrochages d’exposition ou de collection muséales : une approche ontologique. » DH2024 Proceedings, Washington. [en révision]
+
+Zoë Renaudie, David, Valentine, Lena Krause, et Emmanuel Château-Dutier. À paraître. « Display, Ontology and Database for Exhibition Documentation. » DHNB2024 Conference Proceedings, Reykjavik, Islande. [en révision]
+
+Renaudie, Zoë. 2024. « La documentation d’exposition : retour d’expérience. » museonum. https://medium.com/museonum
+
+Renaudie, Zoë. 2020. « The World of ‘Pale Fires’, an Exhibition Put to the Test of Conservation. » ICAR no. 4: 204–217. https://icarthejournal.asp.waw.pl/index.php/resources/
+
+Renaudie, Zoë. 2018. « Conservation du concept, restauration contre l’oubli. » Marges 2018/2 (no. 27): 110–121. https://doi.org/10.4000/marges.1559
+
+Renaudie, Zoë. 2017. « Le monde de Feux pâles : l’exposition à l’épreuve de la conservation-restauration ». Mémoire de recherche, Avignon, France: École Supérieure d’Art d’Avignon. http://hdl.handle.net/1866/40417.
+
+Renaudie, Zoë. 2015. « L’exposition artistique peut-elle devenir une œuvre d’esprit ? » Semin’R. https://seminesaa.hypotheses.org/4144
+
+Renaudie, Zoë. 2015. « Exposition d’une exposition de Daniel Buren ou l’exposition comme œuvre d’art. » Semin’R, Investigations in and on conservation. https://seminesaa.hypotheses.org/3129
+
 ### Communications orales
 
-UQAM, intervention cours UQAM 
-3h
+09 avril 2025 — Communication intitulée « Déjouer le temps de l’exposition : expérimentations et résistances », lors du colloque Indiscipliner la discipline : nouvelles approches théoriques et critiques en histoire de l’art et muséologie, à l'Université de Montréal.
 
-Udem, Ouvroir, Cieco 
- Journée étude Ontologie
+**17 octobre 2024** 
 
-CIECO 
-2024 Forum doctoral Ottawa
+Communication lors du cours HAR4710 : Histoire de l’art et muséologie à l’UQAM. J’anime une séance de 4h sur les « Humanités numériques dans les musées : outils pour l’histoire de l’art et la muséologie ». 
 
-DHNB
-2024 
-Pres et poster
+**17 décembre 2024** 
+
+Communication intitulée « Documenting Exhibition with the Semantic Web » lors de la journée d’étude sur la documentation des expositions avec le web sémantique, Université de Montréal, Ouvroir et CIECO. 
+
+**30 mai 2024** 
+
+Communication lors du Forum annuel des étudiants et des étudiantes du Partenariat *Des nouveaux usages des collections dans les musées d’art* du Ciéco sur mon sujet de recherche « L’exposition à l’épreuve de la conservation-restauration : les humanités numériques comme approche documentaire Interdisciplinaire ». 
+
+**27-31 mai 2024** 
+
+Communications lors du 8ème congrés de Digital Humanities in the Nordic and Baltic Countries « From Collections as Data experiments to sustainable Data Services: experiences at the intersection of cultural heritage and digital humanities ». Présentation « Not Following the Book: A Journey from Museum Conservator to Digital Humanities Researcher through the Creation of a Contemporary Art Management Database » et poster sur « Display, Ontology and Database for Exhibition Documentation ». 
+
+**07 août 2024** Avec Château-Dutier Emmanuel, Valentine David, Krause Lena, « Documenter les accrochages d’exposition ou de collection muséales : une approche ontologique » lors du congrès DH2024, Washington, 2024 
 
 2024-03-01 atelier 4 CIECO
 Co-animation et présentation d’une conférence : Le numérique opérateur de la mise à vue des collections. 
 
-Université de Montréal, crihn
-2024	Ontologie et base de données pour documenter les accrochages, d’exposition ou de collection muséales, 
-Emmanuel	Château-Dutier,	Lena	Krause,	Zoë	Renaudie,	David	Valentine.	Vitrine	HN	du	CRIHN	
+**19 janvier 2024**  
+David Valentine, Zoë Renaudie, Lena Krause et Emmanuel Château-Dutier (UdeM) : « Ontologie et base de données pour documenter les accrochages d’exposition ou de collection muséales »  
 
 Université de Montréal
 2023	Présentation Solution FMP
@@ -218,12 +260,6 @@ Carré d’art de Nîmes, FR
 
 Palais de Tokyo, FR
 2015	«	Curating	art,	the	exhibition-artwork	status	+	guided	tour	of	UGO	RONDINONE	:	I	<3	JOHN	GIORNO	»	Palais de Tokyo, Paris
-
-### Autres créations 
-
-2021 Exposition d'une oeuvre documentaire : *La constellation à l'épreuve de la conservation*. Exposition, Rien n'aura eu lieu à Pop Arl
-
-2016	Documentation-performance - Édition	en	ligne	et	imprimée	sur	les	performances	des	étudiants	de	l’ESAA	pour	Frasq,	Gentilly
 
 ## IMPLICATION SOCIALE ET BÉNÉVOLAT
 
@@ -259,37 +295,3 @@ Bénévolat au département de la restauration d’art contemporain de Louisiana
 
 2017 - 2011
 Différents	postes	exécutifs	du	bureau	de	l’association	Fil	à	Fil	(Association	des	étudiants	en conservation-restauration de l’École Supérieure d’Art d’Avignon) FR
-
-
-
-**Expériences bénévoles** 
-
- 
-
-- **Engagements dans le milieu académique** 
-
- 
-
-**Septembre 2023 – Aujourd’hui** 
-
-Membre du laboratoire d'histoire de l’art et d’humanités numériques « l’Ouvroir » à Université de Montréal : participation aux évènements et aux activités scientifiques. 
-
- 
-
-**Septembre 2023 – Aujourd’hui** 
-
-Secrétaire de l’association Aesthesis (Association des doctorants en histoire de l’art de l’UdeM). Gestion et la rédaction des comptes-rendus des rencontres du comité exécutif et des assemblées générales, assister présidente dans les tâches de représentation aux instances du programme et du département, rédaction des compte-rendus; et s’implique aussi activement dans la vie étudiante. Organisation et animation d’atelier pour les étudiants.  
-
- 
-
-**Septembre 2024 – Aujourd'hui** 
-
-Co-représentante au Comité Étudiant du Doc-Inter (CEDISC) : participation aux évènements et aux activités scientifiques.  
-
- 
-
-- **Autres engagements** 
-
- 
-
- 
