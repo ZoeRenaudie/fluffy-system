@@ -5,40 +5,37 @@ import rehypeSlug from "rehype-slug";
 
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
-  extensions: [".svelte", ".md"],
+	// Ensures both .svelte and .md files are treated as components (can be imported and used anywhere, or used as pages)
+	extensions: [".svelte", ".md"],
 
-  kit: {
-    adapter: adapter({
-      // Default options should work, tu peux spécifier "pages" et "assets" si besoin
-      // pages: 'build',
-      // assets: 'build'
-    }),
-    paths: {
-      base: '/fluffy-system', // base pour GitHub Pages
-    },
-    prerender: {
-      entries: [
-        "*",
-        "/api/posts/page/*",
-        "/blog/category/*/page/",
-        "/blog/category/*/page/*",
-        "/blog/category/page/",
-        "/blog/category/page/*",
-        "/blog/page/",
-        "/blog/page/*",
-      ],
-    },
-  },
+	kit: {
+		adapter: adapter(),
+		prerender: {
+			entries: [
+				"*",
+				"/api/posts/page/*",
+				"/blog/category/*/page/",
+				"/blog/category/*/page/*",
+				"/blog/category/page/",
+				"/blog/category/page/*",
+				"/blog/page/",
+				"/blog/page/*",
+			],
+		},
+	},
 
-  preprocess: [
-    mdsvex({
-      extensions: [".md"],
-      rehypePlugins: [
-        rehypeSlug,
-        rehypeAutolinkHeadings,
-      ],
-    }),
-  ],
+	preprocess: [
+		mdsvex({
+			// The default mdsvex extension is .svx; this overrides that.
+			extensions: [".md"],
+
+			// Adds IDs to headings, and anchor links to those IDs. Note: must stay in this order to work.
+			rehypePlugins: [
+				rehypeSlug,
+				rehypeAutolinkHeadings,
+			],
+		}),
+	],
 };
 
 export default config;
