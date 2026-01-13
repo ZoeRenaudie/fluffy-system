@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Journal de thèse - Zoë Renaudie</title>
+<description>Carnet de recherche de Zoë Renaudie, doctorante en histoire de l'art à l'Université de Montréal.</description>
+<link>https://github.com/ZoeRenaudie/fluffy-system</link>
+<atom:link href="https://zoe.renaudie.com/api/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<guid isPermaLink="true">https://zoe.renaudie.com/blog/heading-links-example</guid>
+<title>Automatic heading links in mdsvex</title>
+<link>https://zoe.renaudie.com/blog/heading-links-example</link>
+<description>Check out how heading links work with this starter in this post.</description>
+<pubDate>Thu, 26 Oct 2023 00:00:00 GMT</pubDate>
+</item><item>
+<guid isPermaLink="true">https://zoe.renaudie.com/blog/mdsvex-component-example</guid>
+<title>A Markdown post with a Svelte component</title>
+<link>https://zoe.renaudie.com/blog/mdsvex-component-example</link>
+<description>This post demonstrates how to include a Svelte component in a Markdown post.</description>
+<pubDate>Fri, 28 Apr 2023 00:00:00 GMT</pubDate>
+</item><item>
+<guid isPermaLink="true">https://zoe.renaudie.com/blog/syntax-highlighting-example</guid>
+<title>Syntax highlighting with mdsvex</title>
+<link>https://zoe.renaudie.com/blog/syntax-highlighting-example</link>
+<description>This post shows you how syntax highlighting works here.</description>
+<pubDate>Thu, 05 Jan 2023 00:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>

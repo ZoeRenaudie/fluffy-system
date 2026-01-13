@@ -1,0 +1,1 @@
+import"./CWj6FrbW.js";import"./69_IOA4Y.js";import{f as o,a as r}from"./Cy9CnXI-.js";var a=o('<p>Journal de blog fait en partie avec <a href="https://kit.svelte.dev/" rel="nofollow">SvelteKit</a> avec l’aide de <a href="https://github.com/josh-collinsworth/sveltekit-blog-starter" rel="nofollow">GitHub repo here</a>.</p>');function f(e){var t=a();r(e,t)}export{f as default};
